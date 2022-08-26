@@ -2,7 +2,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [tuenkle.github.io](tuenkle.github.io)
+- 👨‍💻 All of my projects are available at (tuenkle.github.io)
 
 - 📫 How to reach me **tuenkle1011@gmail.com**
 
