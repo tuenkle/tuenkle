@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tuenkle</h1>
+<h1 align="center">tuenkle</h1>
 
 - 👨‍💻 All of my projects are available at [tuenkle.github.io](tuenkle.github.io)
 
