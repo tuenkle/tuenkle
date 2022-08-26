@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm tuenkle</h1>
 - 👨‍💻 All of my projects are available at [tuenkle.github.io](tuenkle.github.io)
 
-- 📝 I regularly write articles on [tuenkle.github.io](tuenkle.github.io)
-
 - 📫 How to reach me **tuenkle1011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
