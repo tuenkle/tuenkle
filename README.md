@@ -3,7 +3,6 @@
 
 
 - How to reach me **tuenkle1011@gmail.com**
-- boj :  https://www.acmicpc.net/user/tuenkle
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
